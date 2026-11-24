@@ -67,7 +67,7 @@ export const PRODUCTS: Product[] = [
     name: "Coconut Shell",
     tagline: "Dense, natural hard shells for industrial & carbon applications",
     description: "Coconut shells available for bulk commercial requirements and related applications.",
-    image: "/assets/images/coconut_shells_bulk.jpg",
+    image: "/assets/images/coconut_shells_natural.jpg",
     specs: [
       { label: "Material", value: "Hard Mature Coconut Shells" },
       { label: "Condition", value: "Cleaned & Dried Halves" },
@@ -82,7 +82,7 @@ export const PRODUCTS: Product[] = [
     name: "Copra",
     tagline: "Sun-dried and well-cured copra for wholesale oil extraction and milling",
     description: "Copra supplied for wholesale trading and commercial requirements.",
-    image: "/assets/images/copra_wholesale.jpg",
+    image: "/assets/images/copra_natural.jpg",
     specs: [
       { label: "Category", value: "Milling & Edible Grade" },
       { label: "Processing", value: "Naturally Sun-Dried & Cured" },
@@ -206,7 +206,7 @@ export const INSTAGRAM_POSTS = [
   },
   {
     id: 4,
-    image: "/assets/images/copra_wholesale.jpg",
+    image: "/assets/images/copra_natural.jpg",
     caption: "Natural sun-cured copra halves ready for milling and commercial supply.",
     tag: "Copra",
   },
